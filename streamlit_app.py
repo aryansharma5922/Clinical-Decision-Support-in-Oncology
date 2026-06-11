@@ -355,7 +355,7 @@ def home_page(df) -> None:
     c2.metric("Diagnostic Features", "30")
     c3.metric("Target Classes", "Malignant / Benign")
     st.write(
-        "This B.Tech final year project predicts tumor malignancy using the Breast Cancer Wisconsin Diagnostic dataset, PCA dimensionality reduction, Random Forest, SVM, and a soft voting ensemble."
+        "This project predicts tumor malignancy using the Breast Cancer Wisconsin Diagnostic dataset, PCA dimensionality reduction, Random Forest, SVM, and a soft voting ensemble."
     )
     workflow_diagram()
 
