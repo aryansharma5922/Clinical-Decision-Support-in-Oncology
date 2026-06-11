@@ -1,0 +1,8 @@
+{
+  "dataset": "Breast Cancer Wisconsin Diagnostic (WDBC)",
+  "primary_source": "https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic",
+  "raw_data_url": "https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data",
+  "materialized_from": "UCI Machine Learning Repository WDBC raw data",
+  "samples": 569,
+  "diagnostic_features": 30
+}
