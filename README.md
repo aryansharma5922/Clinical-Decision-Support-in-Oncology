@@ -1,4 +1,5 @@
 # Clinical Decision Support in Oncology
+[Live Demo – Clinical Decision Support in Oncology](https://clinical-decision-support-in-oncology.streamlit.app/)
 
 ## Abstract
 This project presents a clinical decision support system for early detection of malignant breast tumors using diagnostic imaging features from the Breast Cancer Wisconsin Diagnostic dataset. The system applies feature scaling, PCA dimensionality reduction, Random Forest, SVM, and a soft voting ensemble, with SHAP-based explainability and a Streamlit dashboard.
